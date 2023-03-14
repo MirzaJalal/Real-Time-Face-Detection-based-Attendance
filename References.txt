@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/62765268/visible-deprecation-warnings-and-value-error-when-trying-out-face-recognition
+https://github.com/murtazahassan/Face-Recognition
+https://towardsdatascience.com/hog-histogram-of-oriented-gradients-67ecd887675f
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+https://www.researchgate.net/publication/341876647_Face_Recognition_based_Attendance_Management_System
